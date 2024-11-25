@@ -77,7 +77,7 @@
 
 ## ➡️ 순서도
 
-![flowchart](./img/10_robotarm_flowchart.png)
+![flowchart](./img/10_robotarm_flowchart.jpg)
 1. 조이스틱 아날로그 값 읽기 ➡️ 
 2. 값에 따라 각도 증감 결정 ➡️ 
 3. 서보모터 각도 조절
